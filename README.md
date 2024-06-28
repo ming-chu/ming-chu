@@ -3,7 +3,6 @@
 
 ## A Passionate Software Engineer 🔥🚀🤘
 
-- I'm currently working on personal projects with Flutter
 - Love to code
 - [vim](https://www.vim.org/) / [neoVim](https://neovim.io/) lover
 - Tribute to `Bram Moolenaar`
